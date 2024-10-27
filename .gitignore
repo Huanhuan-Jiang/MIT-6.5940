@@ -1,2 +1,4 @@
 vgg.cifar.pretrained.pth
 /data
+/viz
+/.venv
