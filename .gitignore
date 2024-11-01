@@ -2,3 +2,4 @@ vgg.cifar.pretrained.pth
 /data
 /viz
 /.venv
+=0.26.0
